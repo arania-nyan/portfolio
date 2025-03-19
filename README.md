@@ -2,9 +2,9 @@
 
  
 
-#### Senior Lecturer | AI & Data Analytics in Energy | Smart Grid & Renewable Energy Solutions  
+#### Student at Universiti Tenaga Nasional (UNITEN)  
 
-
+<br>
 
 ## 🚀 About Me  
 
