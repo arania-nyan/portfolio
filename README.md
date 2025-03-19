@@ -6,7 +6,7 @@
 
 <br>
 
-## 🚀 About Me  
+## [🚀 About Me](https://arania-nyan.github.io/portfolio/)
 
 <div style="text-align: justify;">
 I am a <b>Senior Lecturer at Universiti Tenaga Nasional (UNITEN)</b> specializing in **AI-driven analytics, IoT solutions, smart metering, and predictive energy systems**.  
