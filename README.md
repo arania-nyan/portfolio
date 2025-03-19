@@ -30,6 +30,8 @@ My work bridges **academia and industry**, focusing on AI applications that enha
 
 <br> 
 
+![Cat Pic](/assets/img/cat.jpg)
+
 ## 🎓 Education  
 
 - **Ph.D. in Electrical Engineering** | Universiti Tenaga Nasional  
