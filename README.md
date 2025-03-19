@@ -4,7 +4,7 @@
 
 #### Senior Lecturer | AI & Data Analytics in Energy | Smart Grid & Renewable Energy Solutions  
 
- 
+
 
 ## 🚀 About Me  
 
@@ -14,7 +14,7 @@ With over **15 years of experience**, I have collaborated extensively with **Ten
 My work bridges **academia and industry**, focusing on AI applications that enhance **grid reliability, energy security, and sustainability**.
 </div>
 
- 
+<br> 
 
 ## 🛠 Technical Skills  
 
@@ -28,7 +28,7 @@ My work bridges **academia and industry**, focusing on AI applications that enha
 
 - **Renewable Energy & Smart Grids:** AI-based energy forecasting, AMI Analytics, Power Systems  
 
- 
+<br> 
 
 ## 🎓 Education  
 
@@ -38,7 +38,7 @@ My work bridges **academia and industry**, focusing on AI applications that enha
 
 - **B.Eng in Electrical & Electronics Engineering** | Universiti Tenaga Nasional  
 
- 
+<br>  
 
 ## 💼 Work Experience  
 
@@ -70,7 +70,7 @@ My work bridges **academia and industry**, focusing on AI applications that enha
 
 - **Fault Classification for TNB Switchgear:** Implemented **ultrasound-based AI analytics** for predictive maintenance.  
 
- 
+<br>  
 
 ## 📂 Projects  
 
@@ -96,7 +96,7 @@ My work bridges **academia and industry**, focusing on AI applications that enha
 
 - Developed an **AI-powered electricity theft detection system**, increasing fraud case identification from **60% to 85%**.  
 
- 
+<br>  
 
 ## 🎤 Talks & Workshops  
 
@@ -106,7 +106,7 @@ My work bridges **academia and industry**, focusing on AI applications that enha
 
 - **Machine Learning for Non-Technical Loss Detection** - IEEE Power & Energy Society  
 
- 
+<br>  
 
 ## 🏆 Publications & Research  
 
@@ -116,7 +116,7 @@ My work bridges **academia and industry**, focusing on AI applications that enha
 
 - **Secured RM 2.2 million in research funding** for AI-driven energy analytics projects.  
 
- 
+<br>  
 
 ## 🏅 Certifications & Professional Memberships  
 
@@ -130,7 +130,7 @@ My work bridges **academia and industry**, focusing on AI applications that enha
 
 - **Industrial IoT (IIoT) Developer**  
 
- 
+<br>  
 
 ## 📢 Connect with Me  
 
