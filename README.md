@@ -136,6 +136,10 @@ My work bridges **academia and industry**, focusing on AI applications that enha
 
 ## 📢 Connect with Me  
 
+[![Watch the video](https://img.youtube.com/vi/ZcFiCm5KJ8g/maxresdefault.jpg)](https://youtu.be/ZcFiCm5KJ8g)
+
+### [Watch this video on YouTube](https://youtu.be/ZcFiCm5KJ8g)
+
 🔗 [LinkedIn](https://www.linkedin.com/in/prajindra/)  
 
 📺 [YouTube Channel](https://www.youtube.com/@prajindrasankar5879)  
